@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload Hi 
+          Edit <code>src/App.js</code> and save to reload Hi (feature branch)
         </p>
                 <a>
           Learn React
